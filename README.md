@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thierleft
 - I’m a PhD candidate in the VISION lab at the University of Cambridge.
-- I've been working in applying computer vision methods in medical imaging, radiomics, and machine learning for different applications in radiation oncology.
+- I've been working in applying computer vision methods in medical imaging, radiomics, and machine learning for different applications in radiology and radiation oncology.
 - You can reach out on Twitter (@thierleft) or at thierry.lefebvre@cruk.cam.ac.uk
 - http://www.bohndieklab.org/people/entry/thierry-lefebvre/
